@@ -12,6 +12,17 @@
 
 ## Librarias
 
+#### Versión de Librarias
+
+- Flask==3.0.0
+- opencv-contrib-python==4.8.1.78
+- opencv-python==4.8.1.78
+- opencv-python-headless==4.9.0.80
+- easyocr==1.7.1
+- PyMuPDF==1.24.1
+- PyMuPDFb==1.24.1
+- Pillow==10.0.1
+
 
 #### Instalar
 
