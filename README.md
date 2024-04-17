@@ -13,6 +13,10 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 
 ## Librarias
 
+### Versión de python utilizada
+
+- Python 3.11.4
+
 #### Versión de Librarias
 
 - Flask==3.0.0
