@@ -16,7 +16,7 @@
 ```
   python3 EasyOcr.py
 ```
-## API Reference
+## API referencia
 
 #### Subir PDF
 
