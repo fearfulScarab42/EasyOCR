@@ -1,6 +1,14 @@
 
 # EasyOCR
 
+## Autores
+
+- [@fearfulScarab42](https://www.github.com/fearfulScarab42)
+- [@AlejandraCebada2](https://www.github.com/AlejandraCebada2)
+- [@fedealejandro](https://www.github.com/fedealejandro)
+- [@TheAdamWaller](https://www.github.com/TheAdamWaller)
+
+
 
 ## Librarias
 
