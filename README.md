@@ -27,6 +27,9 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 
 
 #### Instalar
+```
+  git clone https://github.com/fearfulScarab42/EasyOCR.git
+```
 
 ```
   pip3 install opencv-python easyocr pymupdf pillow flask Werkzeug
