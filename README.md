@@ -32,7 +32,7 @@
   POST http://127.0.0.1/uploads
 ```
 
-| Parameter | Type     | Description                |
+| Parametro | Tipo     | Descripción                |
 | :-------- | :------- | :------------------------- |
 | `file` | `file` | **Requerido**. Archivo de tip PDF |
 
