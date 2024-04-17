@@ -22,12 +22,13 @@
 - PyMuPDF==1.24.1
 - PyMuPDFb==1.24.1
 - Pillow==10.0.1
+- Werkzeug==3.0.0
 
 
 #### Instalar
 
 ```
-  pip3 install opencv-python easyocr pymupdf pillow flask
+  pip3 install opencv-python easyocr pymupdf pillow flask Werkzeug
 ```
 ## Ejecutar el código
 
