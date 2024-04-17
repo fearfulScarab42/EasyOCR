@@ -3,10 +3,10 @@
 
 ## Autores
 
-- [@fearfulScarab42](https://www.github.com/fearfulScarab42)
-- [@AlejandraCebada2](https://www.github.com/AlejandraCebada2)
-- [@fedealejandro](https://www.github.com/fedealejandro)
-- [@TheAdamWaller](https://www.github.com/TheAdamWaller)
+- [@fearfulScarab42](https://www.github.com/fearfulScarab42) Diego León Infanzón Meré
+- [@AlejandraCebada2](https://www.github.com/AlejandraCebada2) Evelyn Alejandra Cebada Cortés
+- [@fedealejandro](https://www.github.com/fedealejandro) Federico Alejandro Vergara Guzmán
+- [@TheAdamWaller](https://www.github.com/TheAdamWaller) Pedro Everardo Hernandez Valerio
 
 
 
