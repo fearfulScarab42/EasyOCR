@@ -8,7 +8,7 @@
 #### Instalar
 
 ```
-  pip3 install opencv-python easyocr pymupdf pillow matplotlib flask
+  pip3 install opencv-python easyocr pymupdf pillow flask
 ```
 ## Ejecutar el código
 
