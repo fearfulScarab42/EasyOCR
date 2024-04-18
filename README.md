@@ -65,7 +65,7 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 
 ![Logo](https://raw.githubusercontent.com/fearfulScarab42/EasyOCR/main/Postman.png)
 
-#### Ejemplo de response
+#### Ejemplo de response exitoso
 
 
 ![Logo](https://raw.githubusercontent.com/fearfulScarab42/EasyOCR/main/response.png)
