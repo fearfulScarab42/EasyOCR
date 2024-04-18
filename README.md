@@ -61,3 +61,5 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 | `file` | `file` | **Requerido**. Archivo de tipo PDF |
 
 
+
+![Logo](https://raw.githubusercontent.com/fearfulScarab42/EasyOCR/main/Postman.png)
