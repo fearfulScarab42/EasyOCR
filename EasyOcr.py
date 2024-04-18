@@ -1,4 +1,3 @@
-#Evelyn Alejandra Cebada Cortes
 #Actividad/Tarea de clase.
 
 from flask import Flask, request, jsonify
