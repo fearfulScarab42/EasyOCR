@@ -5,13 +5,13 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 
 EasyOCR utiliza técnicas de procesamiento de imágenes y aprendizaje automático para reconocer texto en imágenes. Aquí hay un resumen de cómo funciona:
 
-- *Preprocesamiento de imágenes*: Antes de realizar el reconocimiento óptico de caracteres, la imagen de entrada puede pasar por varios pasos de preprocesamiento, como ajuste de contraste, eliminación de ruido y mejora de la calidad de la imagen. Esto ayuda a mejorar la precisión del reconocimiento.
+- **Preprocesamiento de imágenes**: Antes de realizar el reconocimiento óptico de caracteres, la imagen de entrada puede pasar por varios pasos de preprocesamiento, como ajuste de contraste, eliminación de ruido y mejora de la calidad de la imagen. Esto ayuda a mejorar la precisión del reconocimiento.
 
-- Detección de texto: EasyOCR utiliza algoritmos de detección de texto para identificar las regiones de la imagen que contienen texto. Esto puede implicar la segmentación de la imagen en regiones candidatas que podrían contener texto, utilizando técnicas como detección de contornos o algoritmos de detección de objetos.
+- **Detección de texto**: EasyOCR utiliza algoritmos de detección de texto para identificar las regiones de la imagen que contienen texto. Esto puede implicar la segmentación de la imagen en regiones candidatas que podrían contener texto, utilizando técnicas como detección de contornos o algoritmos de detección de objetos.
 
-- Reconocimiento de caracteres: Una vez que se detectan las regiones de texto, EasyOCR utiliza modelos de aprendizaje automático entrenados para reconocer los caracteres en esas regiones. Estos modelos están entrenados en grandes conjuntos de datos que contienen imágenes de texto junto con las etiquetas de los caracteres correspondientes.
+- **Reconocimiento de caracteres**: Una vez que se detectan las regiones de texto, EasyOCR utiliza modelos de aprendizaje automático entrenados para reconocer los caracteres en esas regiones. Estos modelos están entrenados en grandes conjuntos de datos que contienen imágenes de texto junto con las etiquetas de los caracteres correspondientes.
 
-- Postprocesamiento: Después de reconocer los caracteres, es posible que se realicen pasos adicionales de postprocesamiento para mejorar la precisión o el formato del texto reconocido. Esto puede incluir la corrección de errores, la eliminación de caracteres no deseados o la reconstrucción de palabras mal segmentadas.
+- **Postprocesamiento**: Después de reconocer los caracteres, es posible que se realicen pasos adicionales de postprocesamiento para mejorar la precisión o el formato del texto reconocido. Esto puede incluir la corrección de errores, la eliminación de caracteres no deseados o la reconstrucción de palabras mal segmentadas.
 
 ## Autores
 
