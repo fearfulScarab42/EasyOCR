@@ -58,6 +58,6 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 
 | Parametro | Tipo     | Descripción                |
 | :-------- | :------- | :------------------------- |
-| `file` | `file` | **Requerido**. Archivo de tip PDF |
+| `file` | `file` | **Requerido**. Archivo de tipo PDF |
 
 
