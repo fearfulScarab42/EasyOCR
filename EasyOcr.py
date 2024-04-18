@@ -95,11 +95,6 @@ def pos ():
             "msg":'No se ha seleccionado ningún archivo'
         } , 400
 
-    if not file.filename.endswith('.pdf'):
-        return {
-            "code": 400,
-            "msg": 'El archivo proporcionado no es un archivo PDF'
-        }, 400
 
     if file and allowed_file(file.filename):
         filename = secure_filename(file.filename)
@@ -123,7 +118,10 @@ def pos ():
         return jsonify({'texto_extraido': output_text})
 
     else:
-        return jsonify({'error': 'Extensión de archivo no permitida'})
+        return {
+            "code": 400,
+            "msg": 'El archivo proporcionado no es un archivo PDF'
+        }, 400
 
 if __name__ == '__main__':
     app.run(debug=True)
