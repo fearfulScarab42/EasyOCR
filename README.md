@@ -45,9 +45,6 @@ EasyOCR utiliza técnicas de procesamiento de imágenes y aprendizaje automátic
   git clone https://github.com/fearfulScarab42/EasyOCR.git
 ```
 
-```
-  cd EasyOCR
-```
 
 ```
   pip3 install opencv-python easyocr pymupdf pillow flask Werkzeug
@@ -55,6 +52,9 @@ EasyOCR utiliza técnicas de procesamiento de imágenes y aprendizaje automátic
 ## Ejecutar el código
 
 
+```
+  cd EasyOCR
+```
 ```
   python3 EasyOcr.py
 ```
