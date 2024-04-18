@@ -15,7 +15,7 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 
 ### Versión de python utilizada
 
-- Python 3.11.4
+- Python >= 3.10.*
 
 #### Versión de Librarias
 
