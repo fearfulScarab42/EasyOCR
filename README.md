@@ -36,6 +36,10 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 ```
 
 ```
+  cd EasyOCR
+```
+
+```
   pip3 install opencv-python easyocr pymupdf pillow flask Werkzeug
 ```
 ## Ejecutar el código
