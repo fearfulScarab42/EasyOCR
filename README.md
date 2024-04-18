@@ -11,7 +11,7 @@ Es una biblioteca de Python que proporciona una solución fácil de usar para re
 - [@TheAdamWaller](https://www.github.com/TheAdamWaller) Pedro Everardo Hernandez Valerio
 
 
-## Librarias
+## Versiones
 
 ### Versión de python utilizada
 
