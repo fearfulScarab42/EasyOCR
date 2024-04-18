@@ -40,7 +40,7 @@ EasyOCR utiliza técnicas de procesamiento de imágenes y aprendizaje automátic
 - Werkzeug==3.0.0
 
 
-#### Instalar
+## Instalar
 ```
   git clone https://github.com/fearfulScarab42/EasyOCR.git
 ```
